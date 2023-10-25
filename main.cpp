@@ -1,6 +1,9 @@
 #include <iostream>
-
+#include<string>
+#include<ios>
+using namespace std;
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    int temp; cin >> temp;
+    for(int index = 0; index < temp; index++){ cout << index;}
     return 0;
 }

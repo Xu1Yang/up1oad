@@ -1,0 +1,3 @@
+D:/TrentHsu/git-learn/cmake-build-debug/CMakeFiles/git_learn.dir
+D:/TrentHsu/git-learn/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/TrentHsu/git-learn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
